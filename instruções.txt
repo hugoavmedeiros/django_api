@@ -1,0 +1,7 @@
+http://127.0.0.1:8000/admin/
+admin
+admin
+
+http://127.0.0.1:8000/api/v1/fundos
+admin
+admin
